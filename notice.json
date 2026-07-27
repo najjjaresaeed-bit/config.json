@@ -1,5 +1,7 @@
 {
-    "Notice_Id": 3,
-    "Notice_Title": "اصدار التحديث 87",
-    "Notice_Msg": "تم حل جميع المشاكل"
+  "versionCode": 2,
+  "downloadUrl": "https://raw.githubusercontent.com/najjjaresaeed-bit/config.json/refs/heads/main/SaeedFreeNet_v2.apk",
+  "Notice_Id": 1,
+  "Notice_Title": "تنبيه هام من إدارة سعيد فري نت 🔥",
+  "Notice_Msg": "أهلاً بك في تطبيق Saeed Free Net! تم إضافة سيرفرات جديدة وسريعة للغاية، تأكد دائماً من تحديث الكونفجات من داخل التطبيق."
 }
