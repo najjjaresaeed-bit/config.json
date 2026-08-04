@@ -2,7 +2,7 @@
   "AppVersion": 2,
   "DownloadUrl": "https://github.com/najjjaresaeed-bit/config.json/releases/download/V1.2/SAEED.VPN_1.1.6.apk",
   "ReleaseNotes": "تم إطلاق الإصدار الثاني 🚀! يحتوي على تحسينات واسعة في سرعة الاتصال وإضافة خوادم جديدة. يلزم التحديث للاستمرار.",
-  "ForceUpdate": true,
+  "ForceUpdate": false,
   "Notice_Id": 101,
   "Notice_Title": "تنبيه جديد من سعيد فري نت 🔥",
   "Notice_Msg": "مرحباً بكم! تم إضافة سيرفرات سريعة جداً اليوم."
